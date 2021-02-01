@@ -1,0 +1,136 @@
+{
+    "release": {
+        "id": "acs2019_5yr",
+        "name": "ACS 2019 5-year",
+        "years": "2015-2019"
+    },
+    "tables": {
+        "B06009": {
+            "columns": {
+                "B06009001": {
+                    "indent": 0,
+                    "name": "Total:"
+                },
+                "B06009002": {
+                    "indent": 1,
+                    "name": "Less than high school graduate"
+                },
+                "B06009003": {
+                    "indent": 1,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B06009004": {
+                    "indent": 1,
+                    "name": "Some college or associate's degree"
+                },
+                "B06009005": {
+                    "indent": 1,
+                    "name": "Bachelor's degree"
+                },
+                "B06009006": {
+                    "indent": 1,
+                    "name": "Graduate or professional degree"
+                },
+                "B06009007": {
+                    "indent": 1,
+                    "name": "Born in state of residence:"
+                },
+                "B06009008": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B06009009": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B06009010": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B06009011": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B06009012": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                },
+                "B06009013": {
+                    "indent": 1,
+                    "name": "Born in other state in the United States:"
+                },
+                "B06009014": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B06009015": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B06009016": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B06009017": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B06009018": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                },
+                "B06009019": {
+                    "indent": 1,
+                    "name": "Native; born outside the United States:"
+                },
+                "B06009020": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B06009021": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B06009022": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B06009023": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B06009024": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                },
+                "B06009025": {
+                    "indent": 1,
+                    "name": "Foreign born:"
+                },
+                "B06009026": {
+                    "indent": 2,
+                    "name": "Less than high school graduate"
+                },
+                "B06009027": {
+                    "indent": 2,
+                    "name": "High school graduate (includes equivalency)"
+                },
+                "B06009028": {
+                    "indent": 2,
+                    "name": "Some college or associate's degree"
+                },
+                "B06009029": {
+                    "indent": 2,
+                    "name": "Bachelor's degree"
+                },
+                "B06009030": {
+                    "indent": 2,
+                    "name": "Graduate or professional degree"
+                }
+            },
+            "denominator_column_id": "B06009001",
+            "title": "Place of Birth by Educational Attainment in the United States",
+            "universe": "Population 25 Years and Over in the United States"
+        }
+    }
+}
